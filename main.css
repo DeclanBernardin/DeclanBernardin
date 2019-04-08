@@ -18,6 +18,11 @@ width: 800px;
 h1 {
 
 }
+
+#about {
+ font-size: 15px
+}
+
 #education {
  font-size: 20px;
 }
