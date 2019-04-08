@@ -16,6 +16,10 @@ width: 800px;
 h1 {
 }
 
+#info {
+ font-style: bold;
+}
+
 #about {
  font-size: 18px;
  font-style: italic;
