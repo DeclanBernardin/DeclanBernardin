@@ -1,14 +1,12 @@
 body {
  font: 14px 'arial', sans-serif;
  background: url(https://raw.githubusercontent.com/DeclanBernardin/DeclanBernardin.github.io/master/old%20paper2.jpg);
- 
-}
+ }
 
 #picture {
  float: right;
  image-size: 40px 40px;
- 
-}
+ }
 
 #container {
 width: 800px;
