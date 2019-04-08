@@ -5,6 +5,8 @@ body{
 }
 #picture{
  float: right;
+ size: 40px 40px;
+ 
 }
 #container{
 width: 800px;
